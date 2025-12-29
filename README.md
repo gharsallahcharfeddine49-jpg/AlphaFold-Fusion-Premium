@@ -1,8 +1,11 @@
 AlphaFold Fusion Premium
 
-AlphaFold Fusion Premium is an open-source, decision-oriented workflow for robust ColabFold-based protein structure prediction and confidence-aware interpretation.
+AlphaFold Fusion Premium is an open-source, decision-oriented workflow for
+robust ColabFold-based protein structure prediction and
+confidence-aware interpretation.
 
-The project focuses on operational robustness, reproducibility, and decision support, rather than modifying AlphaFold or ColabFold prediction algorithms.
+The project focuses on operational robustness, reproducibility, and decision support,
+rather than modifying AlphaFold or ColabFold prediction algorithms.
 
 🚀 Run in Google Colab (recommended)
 
@@ -69,7 +72,7 @@ Interactive 3D visualization with deterministic refresh
 ⚙️ Execution profiles
 
 Execution profiles map common scientific intents to predefined ColabFold parameter configurations.
-They do not modify AlphaFold or ColabFold models.
+They do not modify AlphaFold or ColabFold inference models.
 
 Available profiles include:
 
