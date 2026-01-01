@@ -12,7 +12,7 @@ rather than modifying AlphaFold or ColabFold prediction algorithms.
 The software is provided as a ready-to-run Google Colab notebook.
 
 👉 Open directly in Colab
-https://colab.research.google.com/github/gharsallahcharfeddine49-jpg/AlphaFold-Fusion-Premium/blob/main/Untitled11.ipynb
+https://colab.research.google.com/github/gharsallahcharfeddine49-jpg/AlphaFold-Fusion-Premium/blob/main/AlphaFold_Fusion_Premium.ipynb
 
 No local installation is required.
 
